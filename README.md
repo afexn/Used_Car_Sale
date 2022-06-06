@@ -13,10 +13,10 @@ I will use this application to analyze a kaggle dataset that contains informatio
 
 # Built With
 This project is developed using Python 3. here is the list of libraries used for the project:- 
-#.Jupyter Notebook(Anaconda3)
-#.Libraries:
-    #. Pandas 
-    #. seaborn 
-    . numpy 
-    . matplotlib 
-    .sklearn
+    #.Jupyter Notebook(Anaconda3)
+    #.Libraries:
+         #. Pandas 
+         #. seaborn 
+         #. numpy 
+          . matplotlib 
+          .sklearn
