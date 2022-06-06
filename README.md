@@ -9,7 +9,14 @@ I will use this application to analyze a kaggle dataset that contains informatio
     #Data Preparation
     #Modeling
     #Evaluation
-   #Deployment
+    #Deployment
 
 # Built With
-This project is developed using Python 3. here is the list of libraries used for the project:- .Jupyter Notebook(Anaconda3) .Libraries . Pandas . seaborn . numpy . matplotlib .sklearn
+This project is developed using Python 3. here is the list of libraries used for the project:- 
+#.Jupyter Notebook(Anaconda3)
+#.Libraries:
+    #. Pandas 
+    #. seaborn 
+    . numpy 
+    . matplotlib 
+    .sklearn
